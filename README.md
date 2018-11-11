@@ -1,3 +1,3 @@
 # Go by Example
 
-Examples I'm making tu learn [Go by Example](https://gobyexample.com/)
+Examples I'm making while learning [Go by Example](https://gobyexample.com/)
