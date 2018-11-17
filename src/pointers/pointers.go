@@ -1,0 +1,18 @@
+package main
+
+import (
+	"fmt"
+)
+
+func asssignZero(i int) {
+	i = 0
+}
+
+func asssignZeroByPointer(i *int) {
+	*i = 0
+}
+
+func main() {
+	i := 1
+	fmt.Println("asssignZero(i = 1): ", asssignZero(i))
+}
