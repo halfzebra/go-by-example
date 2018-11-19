@@ -15,4 +15,5 @@ func asssignZeroByPointer(i *int) {
 func main() {
 	i := 1
 	fmt.Println("asssignZero(i = 1): ", asssignZero(i))
+	fmt.Println("pointer to", &i)
 }
